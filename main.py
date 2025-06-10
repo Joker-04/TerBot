@@ -11,8 +11,8 @@ from telegram.ext import (
 from telegram.error import BadRequest
 
 # === CONFIG ===
-BOT_TOKEN = "YOUR_BOT_TOKEN"  # Replace with your actual bot token
-FORCE_SUB_CHANNEL = "@YourChannelUsername"  # Replace with your channel username
+BOT_TOKEN = "8043406036:AAHfFIEcS8IYs6wmem86IuJSMuCK3Oy3ytg"  # Replace with your actual bot token
+FORCE_SUB_CHANNEL = "@Joker_offical0"  # Replace with your channel username
 
 # === TERABOX SCRAPER ===
 def get_terabox_video_info(share_link):
